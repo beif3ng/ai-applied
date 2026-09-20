@@ -33,7 +33,6 @@ There is no one correct way to use Claude Code and other coding agents. Every en
 ## Claude Code — Tooling & Monitoring
 
 - [phuryn/claude-usage](https://github.com/phuryn/claude-usage) — Usage/cost dashboard with VS Code sidebar
-- [rar-file/claude-rpc](https://github.com/rar-file/claude-rpc) — RPC bridge for Claude Code
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) — Trims noisy bash/tool output before it reaches the model
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) — Customizable statusline for Claude Code
 
