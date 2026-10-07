@@ -53,7 +53,7 @@ There is no one correct way to use Claude Code and other coding agents. Every en
 ## Dev Infra & Utilities
 
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) — MCP server for n8n workflow automation
-- [jina-ai/reader](https://github.com/jina-ai/reader) — URL-to-markdown converter for LLMs
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — Crawls whole sites into LLM-ready markdown or structured data
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) — Self-hosted, BYOK NotebookLM alternative
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) — Local-first long-term memory for AI agents
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) — Converts documents to markdown for LLM use
