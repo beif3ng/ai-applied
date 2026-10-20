@@ -26,6 +26,7 @@ There is no one correct way to use Claude Code and other coding agents. Every en
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) — Collection of Claude Code skills
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) — Official Anthropic plugin marketplace for Claude Code
 - [anthropics/skills](https://github.com/anthropics/skills) — Official reference skills from Anthropic
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — Multi-phase codebase security audit with independently verified findings
 - [mattpocock/skills](https://github.com/mattpocock/skills) — TypeScript-focused Claude Code skills
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — Skill for pulling recent activity into context
 - [obra/superpowers](https://github.com/obra/superpowers) — Skill framework extending Claude Code's baseline capabilities
