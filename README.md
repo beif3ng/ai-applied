@@ -58,6 +58,7 @@ There is no one correct way to use Claude Code and other coding agents. Every en
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) — Self-hosted, BYOK NotebookLM alternative
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) — Local-first long-term memory for AI agents
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) — Converts documents to markdown for LLM use
+- [morluto/rea](https://github.com/morluto/rea) — MCP server for agent-driven reverse engineering of apps and binaries
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) — Self-hosted web UI for local/remote LLMs
 
 ## Reference
