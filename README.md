@@ -45,6 +45,7 @@ There is no one correct way to use Claude Code and other coding agents. Every en
 ## Design & Web-Dev
 
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) — Node-based GUI for diffusion models
+- [emilkowalski/skills](https://github.com/emilkowalski/skills) — UI/animation skills from a Vercel/Linear design engineer: animate, review, perf, break-ui
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) — Template for migrating a site onto a new stack
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) — Catalog of style-preset skills to avoid generic AI-slop design
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — Design skill with build/audit/redesign/study verbs and slop-detection gates
