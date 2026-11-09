@@ -39,6 +39,7 @@ There is no one correct way to use Claude Code and other coding agents. Every en
 
 ## Alt Agents & Runtimes
 
+- [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) — Agent harness for learning: probes your level, plans a path, teaches step by step with checks (BYOK or Claude Code CLI)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) — Open-source terminal coding agent
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — Agent framework from Nous Research
 
