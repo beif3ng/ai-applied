@@ -62,6 +62,7 @@ There is no one correct way to use Claude Code and other coding agents. Every en
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) — Converts documents to markdown for LLM use
 - [morluto/rea](https://github.com/morluto/rea) — MCP server for agent-driven reverse engineering of apps and binaries
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) — Self-hosted web UI for local/remote LLMs
+- [vostride/agent-qa](https://vostride.com) — Natural-language web and mobile QA with persistent memidex memory, validated self-improvement, and recorded run evidence.
 
 ## Reference
 
