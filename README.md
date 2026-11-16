@@ -27,6 +27,7 @@ There is no one correct way to use Claude Code and other coding agents. Every en
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) — Official Anthropic plugin marketplace for Claude Code
 - [anthropics/skills](https://github.com/anthropics/skills) — Official reference skills from Anthropic
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) — Multi-phase codebase security audit with independently verified findings
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — Always-on skill against over-engineering: smallest complete change, never cuts validation or security
 - [mattpocock/skills](https://github.com/mattpocock/skills) — TypeScript-focused Claude Code skills
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — Researches what people said about a topic in the last 30 days (Reddit, X, HN, YouTube…)
 - [obra/superpowers](https://github.com/obra/superpowers) — Skill framework extending Claude Code's baseline capabilities
@@ -47,8 +48,10 @@ There is no one correct way to use Claude Code and other coding agents. Every en
 
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) — Node-based GUI for diffusion models
 - [emilkowalski/skills](https://github.com/emilkowalski/skills) — UI/animation skills from a Vercel/Linear design engineer: animate, review, perf, break-ui
+- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) — Skill with modern web platform guides and browser support data, steers agents off legacy patterns
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) — Template for migrating a site onto a new stack
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) — Catalog of style-preset skills to avoid generic AI-slop design
+- [meta/astryx](https://github.com/meta/astryx) — Meta's React design system built for people and agents: 150+ accessible components, CSS-variable theming, CLI
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — Design skill with build/audit/redesign/study verbs and slop-detection gates
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — Design-language extension skill
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) — Curated design resources for AI-assisted workflows
