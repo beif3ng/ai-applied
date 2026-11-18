@@ -43,6 +43,7 @@ There is no one correct way to use Claude Code and other coding agents. Every en
 
 - [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) — Agent harness for learning: probes your level, plans a path, teaches step by step with checks (BYOK or Claude Code CLI)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) — Open-source terminal coding agent
+- [earendil-works/pi](https://github.com/earendil-works/pi) — Minimal, extensible coding agent harness you adapt yourself: no built-in sub-agents or plan mode
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — Agent framework from Nous Research
 
 ## Design & Web-Dev
@@ -67,9 +68,11 @@ There is no one correct way to use Claude Code and other coding agents. Every en
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) — Local-first long-term memory for AI agents
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) — Converts documents to markdown for LLM use
 - [morluto/rea](https://github.com/morluto/rea) — MCP server for agent-driven reverse engineering of apps and binaries
+- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) — Policy-based sandbox for coding agents: kernel-level file/network limits, credentials injected on egress
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) — Self-hosted web UI for local/remote LLMs
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) — Framework for programming LLM pipelines: declarative modules, optimizers tune prompts against a metric
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) — Browser automation CLI for agents: pages as compact text with element refs, one shell call per step
+- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) — Generative UI: the model answers with screens built only from components you approve
 
 ## Reference
 
