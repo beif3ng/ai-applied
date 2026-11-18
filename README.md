@@ -47,6 +47,7 @@ There is no one correct way to use Claude Code and other coding agents. Every en
 
 ## Design & Web-Dev
 
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Official Chrome DevTools for agents (MCP + CLI): performance traces, network, console, automation
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) — Node-based GUI for diffusion models
 - [emilkowalski/skills](https://github.com/emilkowalski/skills) — UI/animation skills from a Vercel/Linear design engineer: animate, review, perf, break-ui
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) — Skill with modern web platform guides and browser support data, steers agents off legacy patterns
@@ -59,6 +60,7 @@ There is no one correct way to use Claude Code and other coding agents. Every en
 
 ## Dev Infra & Utilities
 
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) — BYOK AI code review CLI from Alibaba: line-level comments on diffs or whole files, CI-ready
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) — MCP server for n8n workflow automation
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — Crawls whole sites into LLM-ready markdown or structured data
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) — Self-hosted, BYOK NotebookLM alternative
@@ -67,6 +69,7 @@ There is no one correct way to use Claude Code and other coding agents. Every en
 - [morluto/rea](https://github.com/morluto/rea) — MCP server for agent-driven reverse engineering of apps and binaries
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) — Self-hosted web UI for local/remote LLMs
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) — Framework for programming LLM pipelines: declarative modules, optimizers tune prompts against a metric
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) — Browser automation CLI for agents: pages as compact text with element refs, one shell call per step
 
 ## Reference
 
