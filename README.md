@@ -36,6 +36,7 @@ There is no one correct way to use Claude Code and other coding agents. Every en
 ## Claude Code — Tooling & Monitoring
 
 - [phuryn/claude-usage](https://github.com/phuryn/claude-usage) — Usage/cost dashboard with VS Code sidebar
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) — One interface for Claude Code, Codex and other agents on desktop, web and phone; runs on your own subscriptions
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) — Trims noisy bash/tool output before it reaches the model
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) — Customizable statusline for Claude Code
 
