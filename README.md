@@ -62,9 +62,11 @@ There is no one correct way to use Claude Code and other coding agents. Every en
 
 ## Dev Infra & Utilities
 
+- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) — Open event-based protocol between agents and app frontends: streamed text, tool calls, shared state, human-in-the-loop
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) — BYOK AI code review CLI from Alibaba: line-level comments on diffs or whole files, CI-ready
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) — MCP server for n8n workflow automation
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — Crawls whole sites into LLM-ready markdown or structured data
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) — Generates agent-ready CLIs for desktop software (GIMP, LibreOffice, Obsidian, ...), plus a community registry of ready ones
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) — Self-hosted, BYOK NotebookLM alternative
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) — Local-first long-term memory for AI agents
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) — Converts documents to markdown for LLM use
