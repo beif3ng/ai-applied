@@ -12,16 +12,16 @@ There is no one correct way to use Claude Code and other coding agents. Every en
 
 ## Contents
 
-- [Claude Code — Skills & Plugins](#claude-code--skills--plugins)
-- [Claude Code — Tooling & Monitoring](#claude-code--tooling--monitoring)
-- [Alt Agents & Runtimes](#alt-agents--runtimes)
-- [Design & Web-Dev](#design--web-dev)
-- [Dev Infra & Utilities](#dev-infra--utilities)
+- [Skills & Plugins](#skills--plugins)
+- [Tooling](#tooling)
+- [Agents](#agents)
+- [Design & Web](#design--web)
+- [Infra](#infra)
 - [Reference](#reference)
 
 ---
 
-## Claude Code — Skills & Plugins
+## Skills & Plugins
 
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) — Collection of Claude Code skills
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) — Official Anthropic plugin marketplace for Claude Code
@@ -33,21 +33,21 @@ There is no one correct way to use Claude Code and other coding agents. Every en
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — Researches what people said about a topic in the last 30 days (Reddit, X, HN, YouTube…)
 - [obra/superpowers](https://github.com/obra/superpowers) — Skill framework extending Claude Code's baseline capabilities
 
-## Claude Code — Tooling & Monitoring
+## Tooling
 
 - [phuryn/claude-usage](https://github.com/phuryn/claude-usage) — Usage/cost dashboard with VS Code sidebar
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) — One interface for Claude Code, Codex and other agents on desktop, web and phone; runs on your own subscriptions
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) — Trims noisy bash/tool output before it reaches the model
 - [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) — Customizable statusline for Claude Code
 
-## Alt Agents & Runtimes
+## Agents
 
 - [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness) — Agent harness for learning: probes your level, plans a path, teaches step by step with checks (BYOK or Claude Code CLI)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) — Open-source terminal coding agent
 - [earendil-works/pi](https://github.com/earendil-works/pi) — Minimal, extensible coding agent harness you adapt yourself: no built-in sub-agents or plan mode
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — Agent framework from Nous Research
 
-## Design & Web-Dev
+## Design & Web
 
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) — Official Chrome DevTools for agents (MCP + CLI): performance traces, network, console, automation
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) — Node-based GUI for diffusion models
@@ -60,7 +60,7 @@ There is no one correct way to use Claude Code and other coding agents. Every en
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — Design-language extension skill
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) — Curated design resources for AI-assisted workflows
 
-## Dev Infra & Utilities
+## Infra
 
 - [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) — Open event-based protocol between agents and app frontends: streamed text, tool calls, shared state, human-in-the-loop
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) — BYOK AI code review CLI from Alibaba: line-level comments on diffs or whole files, CI-ready
